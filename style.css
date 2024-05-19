@@ -1,0 +1,33 @@
+*{
+    margin: 50px;
+}
+
+div{
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    background-image: url(imagem1.jpeg);
+    background-size: cover;
+
+    padding: 30px;
+
+    box-shadow: inset 10px 6px 23px 15px red;  
+
+    border-style: outset;
+    border-color: rgb(239, 64, 193);
+    border-width: 20px;
+
+    outline-style: double;
+    outline-color: rgb(181, 5, 122);
+    outline-width: 20px;    
+    border-radius: 5%;
+}
+
+p{
+    font-size: 50px;
+    padding-top: 60px;
+    font-family:cursive;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+}
